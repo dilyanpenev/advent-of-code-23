@@ -2,7 +2,7 @@
 
 | Day | Part 1 | Part 2 ||Day | Part 1 | Part 2 |
 | --- | --- | --- |---| --- | --- | --- |
-| 01 | :heavy_check_mark: | :heavy_check_mark: || 02 |  |  |
+| 01 | :heavy_check_mark: | :heavy_check_mark: || 02 | :heavy_check_mark: | :heavy_check_mark: |
 | 03 |  |  || 04 |  |  |
 | 05 |  |  || 06 |  |  |
 | 07 |  |  || 08 |  |  |
