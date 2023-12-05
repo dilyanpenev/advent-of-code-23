@@ -4,7 +4,7 @@
 | --- | --- | --- |---| --- | --- | --- |
 | 01 | :heavy_check_mark: | :heavy_check_mark: || 02 | :heavy_check_mark: | :heavy_check_mark: |
 | 03 |  |  || 04 | :heavy_check_mark: | :heavy_check_mark: |
-| 05 |  |  || 06 |  |  |
+| 05 | :heavy_check_mark: |  || 06 |  |  |
 | 07 |  |  || 08 |  |  |
 | 09 |  |  || 10 |  |  |
 | 11 |  |  || 12 |  |  |
