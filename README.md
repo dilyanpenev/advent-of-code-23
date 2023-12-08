@@ -5,7 +5,7 @@
 | 01 | :heavy_check_mark: | :heavy_check_mark: || 02 | :heavy_check_mark: | :heavy_check_mark: |
 | 03 |  |  || 04 | :heavy_check_mark: | :heavy_check_mark: |
 | 05 | :heavy_check_mark: |  || 06 | :heavy_check_mark: | :heavy_check_mark: |
-| 07 | :heavy_check_mark: | :heavy_check_mark: || 08 |  |  |
+| 07 | :heavy_check_mark: | :heavy_check_mark: || 08 | :heavy_check_mark: | :heavy_check_mark: |
 | 09 |  |  || 10 |  |  |
 | 11 |  |  || 12 |  |  |
 | 13 |  |  || 14 |  |  |
