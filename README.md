@@ -9,7 +9,7 @@
 | 09 | :heavy_check_mark: | :heavy_check_mark: || 10 | :heavy_check_mark: |  |
 | 11 | :heavy_check_mark: | :heavy_check_mark: || 12 |  |  |
 | 13 |  |  || 14 | :heavy_check_mark: |  |
-| 15 |  |  || 16 |  |  |
+| 15 | :heavy_check_mark: | :heavy_check_mark: || 16 |  |  |
 | 17 |  |  || 18 |  |  |
 | 19 |  |  || 20 |  |  |
 | 21 |  |  || 22 |  |  |
