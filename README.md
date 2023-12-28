@@ -13,5 +13,5 @@
 | 17 |  |  || 18 |  |  |
 | 19 | :heavy_check_mark: |  || 20 |  |  |
 | 21 | :heavy_check_mark: |  || 22 |  |  |
-| 23 |  |  || 24 |  |  |
+| 23 | :heavy_check_mark: | :heavy_check_mark: || 24 |  |  |
 | 25 |  |  |||||
